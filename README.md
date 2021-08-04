@@ -85,7 +85,7 @@ Whether you use this project, have learned something from it, or just like it, p
 ---
 <h1 id="acknowledgments">Acknowledgments</h1>
 
-+ Thanks to **Web Dev Simplified** for providing the snake-game [free tutorial](https://www.youtube.com/watch?v=QTcIXok9wNY)
++ Thanks to **CodePen: Martin @TheCodeDepository** for providing the maze game [source code](https://codepen.io/TheCodeDepository)
 
 ### You may also like..
 

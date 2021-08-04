@@ -1,4 +1,7 @@
 <h1 align="center">
+<br>
+<img src="https://i.ibb.co/brTChMq/ufo-4053230-960-720.png" width="200px">
+  <br>
 Maze Game
 </h1> 
 <p align="center">
